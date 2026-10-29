@@ -2,6 +2,8 @@
 
 IMPRIA Base keeps customers, conversations, orders and working folders connected in one CRM on your local network. Install it on one Mac, then work on that computer or from Windows PCs and other Macs on the same network.
 
+The CRM and Work Center interfaces are available in English, Spanish and Russian.
+
 Base is free to use in your own business. There is no expiry date, software subscription or license-imposed limit on the number of orders.
 
 [Get Base](https://impria.app/) | [Watch the overview](https://youtu.be/Yxdjips93Ec) | [Report an issue](https://github.com/impria-crm/impria-base/issues)
