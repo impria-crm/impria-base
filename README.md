@@ -6,9 +6,26 @@ The CRM and Work Center interfaces are available in English, Spanish and Russian
 
 Base is free to use in your own business. There is no expiry date, software subscription or license-imposed limit on the number of orders.
 
-[Get Base](https://impria.app/) | [Watch the overview](https://youtu.be/Yxdjips93Ec) | [Report an issue](https://github.com/impria-crm/impria-base/issues)
+[Download Base](https://github.com/impria-crm/impria-base/releases/latest) | [Watch the overview](https://youtu.be/Yxdjips93Ec) | [Report an issue](https://github.com/impria-crm/impria-base/issues)
 
-Repository status: documentation and license only for now. Base source code is not published here yet. Get the packaged application from [impria.app](https://impria.app/).
+IMPRIA Base is distributed here as a ready-to-install macOS application. This repository contains downloads, documentation and the license; the application's source code is not published. Closed Pro components are not distributed here.
+
+## Download and install
+
+Open [Releases](https://github.com/impria-crm/impria-base/releases/latest) and choose the DMG for your Mac:
+
+| Your Mac | Installer filename |
+| --- | --- |
+| Apple Silicon (M-series chip) | `IMPRIA-Base-<version>-macOS-arm64.dmg` |
+| Intel processor | `IMPRIA-Base-<version>-macOS-x86_64.dmg` |
+
+Choose Apple menu > About This Mac to check your processor. Open the DMG, launch Install IMPRIA and follow the setup instructions. The package includes installation notes in English, Spanish and Russian.
+
+Apple Developer ID registration is not yet complete and these installers are not notarized. Read the installation notes before opening the installer. If macOS says an app is damaged or will damage your computer, stop and contact hello@impria.app.
+
+Each release includes SHA-256 checksums and links to the checks for those exact installers. GitHub's automatically generated "Source code" ZIP and TAR.GZ files contain this repository's documentation, not the application's source code.
+
+These are installation packages, not an automatic updater for an existing Base installation. Keep your current installation and Workspace intact; contact hello@impria.app if you need help moving from an older Base version.
 
 ## Built for a print shop
 
@@ -165,7 +182,7 @@ You can use the latest successful backup when restoring on a compatible Mac. Kee
 
 ## Get started on one Mac
 
-1. Open [impria.app](https://impria.app/) and choose Base.
+1. Open the [latest Base release](https://github.com/impria-crm/impria-base/releases/latest), or choose Base at [impria.app](https://impria.app/).
 2. Choose the Intel or Apple Silicon installer and check that release's system requirements.
 3. Install the application and open Work Center, IMPRIA's setup interface.
 4. Complete initial setup: language, the owner's personal recovery email, regional settings, the Workspace folder and CRM access.
@@ -232,13 +249,13 @@ Start with Base and try your normal working process. Upgrade to Pro from Work Ce
 
 The Pro license is perpetual. New releases and additional services have separate terms; the end of a paid update-coverage period does not disable the Pro version you already own. Current prices and terms are available at [impria.app](https://impria.app/).
 
-## License and modifications
+## License and distribution
 
 [PolyForm Perimeter 1.0.1](https://polyformproject.org/licenses/perimeter/1.0.1) is the selected license for IMPRIA Base's own code.
 
 The license permits free use in your own business and modifications of the provided code for your own needs. You may not use code covered by this license to provide others with a competing product or service, including free offerings. Read the full terms in [LICENSE](https://github.com/impria-crm/impria-base/blob/main/LICENSE).
 
-This is a source-available licensing model with restrictions on competing use. Third-party components retain their own licenses and copyright notices. Closed Pro components are not part of Base's public scope.
+Source code is not published in this repository. Any code supplied separately remains subject to its applicable license. Third-party components retain their own licenses and copyright notices. Closed Pro components are not part of Base's public scope.
 
 ## Bugs and suggestions
 
@@ -259,3 +276,4 @@ Support is voluntary. You can also buy Pro if you need its features.
 Sergei Oseledchik, creator of IMPRIA. Contact: [oseledchikse@gmail.com](mailto:oseledchikse@gmail.com).
 
 [My LinkedIn](https://www.linkedin.com/in/oseledchiks/) | [IMPRIA on YouTube](https://www.youtube.com/@IMPRIA-CRM) | [IMPRIA website](https://impria.app/)
+
