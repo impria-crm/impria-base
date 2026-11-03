@@ -12,8 +12,8 @@ IMPRIA Base is distributed here as a ready-to-install macOS application. This re
 
 ## Download and install
 
-The current stable release is **0.3.5**, available for both Apple Silicon and
-Intel. [Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.3.5)
+The current stable release is **0.3.6**, available for both Apple Silicon and
+Intel. [Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.3.6)
 include a separate verification report for each Mac architecture.
 
 Open [Releases](https://github.com/impria-crm/impria-base/releases/latest) and choose the DMG for your Mac:
