@@ -12,9 +12,9 @@ IMPRIA Base is distributed here as a ready-to-install macOS application. This re
 
 ## Download and install
 
-The current stable release is **0.3.6**, available for both Apple Silicon and
-Intel. [Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.3.6)
-include a separate verification report for each Mac architecture.
+The current stable release is **0.4.1**, available for Apple Silicon and Intel.
+Both installers are signed with Developer ID and notarized by Apple.
+[Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.4.1)
 
 Open [Releases](https://github.com/impria-crm/impria-base/releases/latest) and choose the DMG for your Mac:
 
@@ -23,11 +23,9 @@ Open [Releases](https://github.com/impria-crm/impria-base/releases/latest) and c
 | Apple Silicon (M-series chip) | `IMPRIA-Base-<version>-macOS-arm64.dmg` |
 | Intel processor | `IMPRIA-Base-<version>-macOS-x86_64.dmg` |
 
-Choose Apple menu > About This Mac to check your processor. Open the DMG, launch Install IMPRIA and follow the setup instructions. The package includes installation notes in English, Spanish and Russian.
+Choose Apple menu > About This Mac to check your processor. Open the matching DMG, launch Install IMPRIA and follow the setup instructions. The same installers are available at [impria.app](https://impria.app/).
 
-Apple Developer ID registration is not yet complete and these installers are not notarized. Read the installation notes before opening the installer. If macOS says an app is damaged or will damage your computer, stop and contact hello@impria.app.
-
-Each release includes SHA-256 checksums and links to the checks for those exact installers. GitHub's automatically generated "Source code" ZIP and TAR.GZ files contain this repository's documentation, not the application's source code.
+The release includes SHA-256 checksums for both installers. GitHub's automatically generated "Source code" ZIP and TAR.GZ files contain the documentation and license for this repository.
 
 These are installation packages, not an automatic updater for an existing Base installation. Keep your current installation and Workspace intact; contact hello@impria.app if you need help moving from an older Base version.
 
