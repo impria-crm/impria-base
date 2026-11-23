@@ -12,9 +12,9 @@ IMPRIA Base is distributed here as a ready-to-install macOS application. This re
 
 ## Download and install
 
-The current stable release is **0.4.3**, available for Apple Silicon and Intel.
+The current stable release is **0.5.3**, available for Apple Silicon and Intel.
 Both installers are signed with Developer ID and notarized by Apple.
-[Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.4.3)
+[Release notes, installers and checksums](https://github.com/impria-crm/impria-base/releases/tag/v0.5.3)
 
 Open [Releases](https://github.com/impria-crm/impria-base/releases/latest) and choose the DMG for your Mac:
 
@@ -208,6 +208,9 @@ Each computer does not get a separate database: everyone works with the same CRM
 ## Videos and setup help
 
 The [IMPRIA overview video](https://youtu.be/Yxdjips93Ec) explains the overall idea and the differences between Base and Pro. AI employee and automatic printing demonstrations in the overview refer to Pro.
+
+- [IMPRIA Base setup guide](https://youtu.be/iR4l0qCELFc)
+- [IMPRIA Pro setup guide](https://youtu.be/5bgV42bekfk)
 
 Work Center includes Base help covering CRM access, email, WhatsApp, workstations and opening folders. Use it yourself or give it to your own external AI assistant as context for helping you set up the application.
 
